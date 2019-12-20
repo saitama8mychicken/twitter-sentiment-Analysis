@@ -13,4 +13,7 @@ Here we will analyse the sentiments of amit shah tweets on 20th December
 
 6 - Analyse this using vader
 
-7 - 
+7 - OUtput Various files 
+
+Above three excel sheet have been shared which individually represents different sentiment analysis 
+algorithms and one represents the comparison between them
