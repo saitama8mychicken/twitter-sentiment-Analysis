@@ -6,3 +6,4 @@ Here we will analyse the sentiments of amit shah tweets on 20th December
 4 - Represent using wordclod
 5 - Analyse this using textblob
 6 - Analyse this using vader
+7 - 
